@@ -1,0 +1,17 @@
+{
+  "name": "tu_hocnodejs",
+  "version": "1.0.0",
+  "description": "tuhocNodeJs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "lochuynh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "5.0.1"
+  }
+}
